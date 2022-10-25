@@ -1,8 +1,9 @@
-//
+//Database creation command and output
 
 MariaDB [(none)]> CREATE DATABASE ndjulu;
 Query OK, 1 row affected (0.004 sec)
 
+//
 MariaDB [(none)]> show databases;
 +--------------------+
 | Database           |
