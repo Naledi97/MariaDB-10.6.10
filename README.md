@@ -4,6 +4,7 @@
 **Naledi97/Naledi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![n](https://user-images.githubusercontent.com/94410334/197748629-bba1fd61-87f1-4d59-b637-78b4b7bd6564.jpg)
 
 - 🔭 I’m currently working on MariaDb
 - 🌱 I’m currently learning ...
