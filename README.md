@@ -1,3 +1,5 @@
+Project 2: Task 1
+
 //Database creation command and output
 
 MariaDB [(none)]> CREATE DATABASE ndjulu;
